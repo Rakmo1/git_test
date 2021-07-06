@@ -2,3 +2,6 @@ Hello
 WOw
 kakakka
 mkakakak
+
+def kk():
+  print("Hello");
