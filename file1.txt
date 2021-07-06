@@ -1,7 +1,13 @@
 Hello
 WOw
+ckckckckc
 kakakka
 mkakakak
 
+
 def kk():
   print("Hello");
+
+def waiwai():
+  print("WOWOW");
+
