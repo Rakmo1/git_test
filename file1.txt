@@ -3,3 +3,6 @@ WOw
 ckckckckc
 kakakka
 mkakakak
+
+def waiwai():
+  print("WOWOW");
