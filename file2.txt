@@ -1,1 +1,2 @@
 Hakuna
+def main(): print(Wow)
